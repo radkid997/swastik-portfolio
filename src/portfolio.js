@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Capital markets professional with experience across Morgan Stanley, NSE, Goldman Sachs, and Broadridge. Interested in trading systems, market data analytics, automation, risk, compliance technology, and data-driven problem-solving."
   ),
-  resumeLink: "developerFolio-master/public/Swastik_Prasad_Resume.pdf",
+  resumeLink: "https://swastik-portfolio-eight.vercel.app/Swastik_Prasad_Resume.pdf",
   displayGreeting: true
 };
 
