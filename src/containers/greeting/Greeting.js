@@ -49,12 +49,10 @@ export default function Greeting() {
                 {greeting.resumeLink && (
                   <a
                     href={greeting.resumeLink}
-                    download="Swastik_Prasad_Resume.pdf"
+                    download
                     className="download-link-button"
                   >
-                    <button className="project-button">
-                      Download my resume
-                    </button>
+                    <Button text="Download my resume" />
                   </a>
                 )}
               </div>
