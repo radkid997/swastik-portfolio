@@ -25,7 +25,7 @@ const greeting = {
   subTitle: emoji(
     "Capital markets professional with experience across Morgan Stanley, NSE, Goldman Sachs, and Broadridge. Interested in trading systems, market data analytics, automation, risk, compliance technology, and data-driven problem-solving."
   ),
-  resumeLink: "/Swastik_Prasad_Resume.pdf",
+  resumeLink: "developerFolio-master/public/Swastik_Prasad_Resume.pdf",
   displayGreeting: true
 };
 
@@ -140,7 +140,7 @@ const workExperiences = {
       role: "Compliance Associate — Trade & Communication Surveillance",
       company: "Morgan Stanley",
       companylogo: require("./assets/images/morgan_stanley_logo-freelogovectors.net_.png"),
-      date: "May 2025 – Present",
+      date: "May 2025 – Nov 2025",
       desc:
         "Contributed to the enhancement of trade surveillance frameworks across multiple asset classes including equities, forex, fixed income, and ETD within the EMEA region, supporting market abuse investigations, trade analysis workflows, surveillance control validation, and Python-based automation initiatives."
     },
