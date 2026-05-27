@@ -75,14 +75,6 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-git-alt"
     },
     {
-      skillName: "Docker",
-      fontAwesomeClassname: "fab fa-docker"
-    },
-    {
-      skillName: "AWS",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
       skillName: "Machine Learning",
       fontAwesomeClassname: "fas fa-brain"
     },
