@@ -137,7 +137,7 @@ const workExperiences = {
   display: true,
   experience: [
     {
-      role: "Compliance Associate — Trade & Communication Surveillance",
+      role: "Risk & Compliance Associate",
       company: "Morgan Stanley",
       companylogo: require("./assets/images/morgan_stanley_logo-freelogovectors.net_.png"),
       date: "May 2025 – Nov 2025",
