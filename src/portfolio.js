@@ -191,6 +191,18 @@ const bigProjects = {
           url: "https://github.com/radkid997/TradeQualityFilter"
         }
       ]
+    },
+    {
+      image: require("./assets/images/thetradingdesk.png"),
+      projectName: "NSE Multi-Agent AI Research Desk",
+      projectDesc:
+        "Multi-agent AI research desk for NSE-listed Indian equities. Four specialized agents — Technical, Fundamental, News, and Sentiment — run in parallel and feed a structured Bull vs. Bear debate that rolls up into a posture recommendation and risk framing.",
+      footerLink: [
+        {
+          name: "GitHub Repository",
+          url: "https://github.com/radkid997/nse-trading-desk"
+        }
+      ]
     }
   ],
 
