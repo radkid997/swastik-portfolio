@@ -201,6 +201,10 @@ const bigProjects = {
         {
           name: "GitHub Repository",
           url: "https://github.com/radkid997/nse-trading-desk"
+        },
+        {
+          name: "Live Demo",
+          url: "https://the-trading-desk.up.railway.app"
         }
       ]
     }
